@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DomiciliosMoviles</string>
+    <string name="title_activity_pedidos">PedidosActivity</string>
+    <string name="client_name">Nombre del cliente</string>
+    <string name="order_place">Lugar de envío</string>
+    <string name="place_order">REALIZAR PEDIDO</string>
+    <string name="open_alert_dialog">Alert dialog</string>
+    <string name="open_progress_dialog">Progress dialog</string>
+    <string name="sel_metodo_pago">Seleccionar Método de Pago</string>
+    <string name="title_activity_metodo">MetodoActivity</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="seleccionar">Debe seleccionar un método de pago</string>
+    <string name="credito">Tarjeta de Credito</string>
+    <string name="debito">Tarjeta Debito</string>
+    <string name="aceptar">Seleccionar</string>
+    <string name="seleccionar_met">Seleccionar</string>
+    <string name="espera_metodo">Cargando métodos de pago</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tips">Seleccione la cantidad deseada de propina</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="find_location">Encontrar Ubicacion</string>
+    <string name="select_image">Seleccionar Imagen</string>
+    <string name="movement_info">Recuerda que ahora puedes realizar el pedido con tan solo un movimiento de tu celular</string>
+    <string name="result">Resultado</string>
+    <string name="ok">ok</string>
+    <string name="gps_not_found">No se encontró posición, encender GPS</string>
+</resources>
